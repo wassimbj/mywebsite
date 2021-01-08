@@ -21,7 +21,7 @@ export default function Contact() {
             </div>
           </div>
         </div>
-        <div className="flex items-center justify-between mt-16 border-t border-gray-800 px-10 py-2 text-sm text-gray-500">
+        <div className="flex items-center justify-between mt-16 border-t border-gray-800 px-2 md:px-10 py-2 text-sm text-gray-500">
           <span> Bye </span>
           <span> © {new Date().getFullYear()} — Wassim Ben Jdida </span>
         </div>

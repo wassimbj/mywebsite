@@ -11,7 +11,7 @@ export default function ContactInfo() {
       {/* Social links */}
       <div className="mt-10">
         <h3 className="text-xl text-gray-600 mb-3"> Find me on </h3>
-        <ul className="flex items-center">
+        <ul className="flex items-center flex-wrap">
           <li>
             <a
               href="https://linkedin.com/in/wassimdev"
